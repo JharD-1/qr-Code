@@ -21,7 +21,7 @@ You can see my solution here: https://www.frontendmentor.io/solutions/qr-code-co
 ## Overview
 ### Screenshot
 
-![Screenshot](img/qr-code.jpg)
+![Screenshot](https://github.com/JharD-1/qr-Code/blob/master/img/qr-code.jpeg)
 
 ### Links
 

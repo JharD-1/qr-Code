@@ -37,13 +37,13 @@ h1, p { margin: 25px 0; }
 .heading { 
     font-weight: 700; 
     color: hsl(218, 44%, 22%);
-    font-size: 2rem;
+    font-size: 2.5rem;
 }
 
 .sub-text { 
     font-weight: 400;
     color: hsl(220, 15%, 55%);
-    font-size: 1.5rem;
+    font-size: 2rem;
 }
 
 /* ================> Mobile screen <====================== */

@@ -59,7 +59,7 @@ To see how you can add code snippets, see below:
 
 ### Continued development
 
-I would to focus more on flexbox and grid so i cankeep creating magic
+I would continue to focus more on flexbox and grid so i can keep creating magic
 
 ### Useful resources
 
